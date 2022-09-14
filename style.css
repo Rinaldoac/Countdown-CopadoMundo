@@ -1,7 +1,7 @@
 body {
   font-family: sans-serif;
   margin: 0px;
-  background-image: url("../img/copaqatar.png");
+  background-image: url("./img/copaqatar.png");
   background-size: cover;
   background-repeat: no-repeat;
   display: block;
